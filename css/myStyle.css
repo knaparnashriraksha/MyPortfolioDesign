@@ -1,0 +1,36 @@
+* {
+	font-family: "Josefin Sans", sans-serif;
+}
+
+.project {
+	padding-top: 15px;
+	height: 45%;
+	width: 50%;
+	margin: 0 auto;
+}
+
+.myPhoto {
+	margin: 0 auto;
+}
+
+.myText {
+	font-size: 50px;
+	color:#fff;
+}
+
+.myBanner {
+	background-color: #fc0;
+	padding: 120px;
+}
+
+.myLogo {
+	font-family: "Libre Barcode 39 Extended Text", cursive;
+	font-size: 100px;
+}
+
+.contact {
+	padding-top: 15px;
+	height: 5%;
+	width: 2%;
+	margin: 0 auto;
+}
